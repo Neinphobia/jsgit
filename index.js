@@ -21,3 +21,12 @@ let fetchRes = fetch("https://jsonplaceholder.typicode.com/todos/5");
         res.json()).then(data => {
             console.log(data)
         })
+
+        //git remote add url
+        //git branch -M yenilikler
+        //git push origin yenilikler
+
+        // --> master git remote add url
+        // git branch -M main
+        // git push -u origin main
+        //
