@@ -4,3 +4,6 @@ const message = {
     id:553
 }
 console.log(message.id);
+//git branch -b yenilikler
+//git checkout master 
+//switching..
